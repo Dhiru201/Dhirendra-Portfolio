@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dhiru201.github.io/dhirendra-portfolio/static/css/main.05f58894.css",
+    "main.js": "/dhiru201.github.io/dhirendra-portfolio/static/js/main.73ea1e1f.js",
+    "static/media/main_logo.png": "/dhiru201.github.io/dhirendra-portfolio/static/media/main_logo.15efaca5ac9896904cae.png",
+    "static/media/contactImg.png": "/dhiru201.github.io/dhirendra-portfolio/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/Dhirendra_Resume.pdf": "/dhiru201.github.io/dhirendra-portfolio/static/media/Dhirendra_Resume.6698ebe32de639293e21.pdf",
+    "index.html": "/dhiru201.github.io/dhirendra-portfolio/index.html",
+    "main.05f58894.css.map": "/dhiru201.github.io/dhirendra-portfolio/static/css/main.05f58894.css.map",
+    "main.73ea1e1f.js.map": "/dhiru201.github.io/dhirendra-portfolio/static/js/main.73ea1e1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05f58894.css",
+    "static/js/main.73ea1e1f.js"
+  ]
+}
